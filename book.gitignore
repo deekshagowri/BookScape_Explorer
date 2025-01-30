@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+config.py
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Others
+*.log
